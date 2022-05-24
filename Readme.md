@@ -1,10 +1,7 @@
-Service Name Generator
+Odoo timesheet generator
 ======================
 
-Don't let your services nameless, give them a beautiful name with this generator.
-
+Don't let your Odoo timesheet empty ! 
 
 ## Todo
-* Add CI
-* Add english dictionary
-* Better french dictionary
+* All
