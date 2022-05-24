@@ -1,8 +1,6 @@
-enorme
-etonnant
-etrange
-grand
-impromptu
-magnifique
-petit
-superbe
+[Emagma] Réunion interne
+[Emagma] Divers
+[Kokopelli] Maintenance
+[S&N] Refonte sylius
+[Commenges] Maintenance
+[Criollo] Maintenance 2022
