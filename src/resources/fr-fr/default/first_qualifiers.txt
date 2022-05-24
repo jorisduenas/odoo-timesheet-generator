@@ -4,3 +4,4 @@
 [S&N] Refonte sylius
 [Commenges] Maintenance
 [Criollo] Maintenance 2022
+[Emagma] Tutorat Vincent
